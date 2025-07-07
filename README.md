@@ -21,7 +21,7 @@ stopwatch/
 ├── index.html # Main HTML file
 ├── style.css # Optional CSS (used if external styling)
 ├── script.js # Optional JS (used if external scripting)
-├── abdulkadir-vardi-VhhHrgadfy0-unsplash.jpg # Background image
+├── clock.jpg # Background image
 └── README.md # This file
 
 
@@ -29,4 +29,3 @@ stopwatch/
 
 ## 📸 Preview
 
-![screenshot]([Screenshot 2025-07-05 134809.png](https://github.c
