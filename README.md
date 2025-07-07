@@ -29,4 +29,4 @@ stopwatch/
 
 ## 📸 Preview
 
-![screenshot]([Screenshot 2025-07-05 134809.png]())  
+![screenshot]([screen shot.png](https://github.com/sanagapallihari/stopwatch/blob/main/clock.jpg))  
